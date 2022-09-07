@@ -1,4 +1,7 @@
 build/
+bin/
+bin-int/
+*.vcxproj*
 imgui.ini
 settings.ini
 .vscode/
